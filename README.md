@@ -1,4 +1,4 @@
 # bilibili-live-download
 這是一個實驗性的script只是用於下載Bilibili上的直播
-直播影片的副檔名為.flv, 而檔案default下載在scipt存在的folder下
-請怒本人英語能力差
+直播影片的副檔名為.flv, 而檔案default下載在script存在的folder下
+請恕本人英語能力差
